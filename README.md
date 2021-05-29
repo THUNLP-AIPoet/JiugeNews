@@ -1,6 +1,8 @@
 # JiugeNews
 We list the recent news and events about our Jiuge system here！
 
+## Recent Updates
+
 ## Jiuge Events
 - 九歌2.0版发布, 2019.07, 佛罗伦萨 
 	- Participants: Zhipeng Guo and Huimin Chen
