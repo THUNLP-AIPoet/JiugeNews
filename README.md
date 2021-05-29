@@ -4,6 +4,22 @@ We list the recent news and events about our Jiuge system here！
 ## Recent Updates
 
 ## Jiuge Events
+
+- 清华大学110周年校庆科技成果展, 2021.04, 北京
+	- Participants: Jinyi Hu, Wenhao Li and Jiarui Zhang
+	- Details: 九歌2.0版系统应邀于2021年清华大学110周年校庆科技成果展中进行展示
+
+
+- 2019智源大会展示, 2019.11, 北京
+	- Participants: Jinyi Hu, Wenhao Li and Huimin Chen
+	- Details: 九歌2.0版系统应邀于2019北京智源大会中进行作诗展示
+
+
+- 清华新生迎新活动展示, 2019.08, 北京
+	- Participants: Jinyi Hu and Zhipeng Guo
+	- Details: 九歌2.0版系统在迎新活动中为新入校的学生进行展示
+
+
 - 九歌2.0版发布, 2019.07, 佛罗伦萨 
 	- Participants: Zhipeng Guo and Huimin Chen
 	- Details: 九歌2.0版系统于欧洲文艺复兴运动的发祥地佛罗伦萨举行的第57届国际计算语言学年会(ACL 2019)会场发布
@@ -50,8 +66,8 @@ We list the recent news and events about our Jiuge system here！
 
 
 - 北京国际语言文化博览会, 2017.09, 北京
-	- Participants: Wenhao Li and Zhipeng Guo
-	- Details: 九歌受邀参加首届中国北京国际语言文化博览会
+	- Participants: Wenhao Li, Zhipeng Guo, Jiannan Liang, Cheng Yang and Yi Qi
+	- Details: 九歌受邀参加首届中国北京国际语言文化博览会, 为法国汉学家白乐桑教授和教育部副部长、国家语委主任杜占元演示等演示作诗
 
 
 - 央视一套《机智过人》第一季, 2017.08, 北京
