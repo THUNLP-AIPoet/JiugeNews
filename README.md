@@ -15,6 +15,11 @@ We list the recent news and events about our Jiuge system here！
 	- Details: 九歌2.0版系统应邀于2019北京智源大会中进行作诗展示
 
 
+- CCL 2019 系统演示, 2019.10, 昆明
+	- Participants: Wenhao Li, Jinyi Hu and Xiaoyuan Yi
+	- Details: 九歌系统于第十八届全国计算语言学会议(CCL 2019)进行展示，获最佳系统展示奖
+
+
 - 清华新生迎新活动展示, 2019.08, 北京
 	- Participants: Jinyi Hu and Zhipeng Guo
 	- Details: 九歌2.0版系统在迎新活动中为新入校的学生进行展示
@@ -65,6 +70,11 @@ We list the recent news and events about our Jiuge system here！
 	- Details: 九歌系统受邀参加《机智过人》人工智能年度盛典, 与著名演员张凯丽同台表演小品
 
 
+- CCL 2017 系统演示, 2017.10, 南京
+	- Participants: Xiaoyuan Yi, Wenhao Li and Ruoyu Li
+	- Details: 九歌系统于第十六届全国计算语言学会议(CCL 2017)进行展示，获最佳系统展示奖
+
+
 - 北京国际语言文化博览会, 2017.09, 北京
 	- Participants: Wenhao Li, Zhipeng Guo, Jiannan Liang, Cheng Yang and Yi Qi
 	- Details: 九歌受邀参加首届中国北京国际语言文化博览会, 为法国汉学家白乐桑教授和教育部副部长、国家语委主任杜占元演示等演示作诗
@@ -77,7 +87,12 @@ We list the recent news and events about our Jiuge system here！
 
 - 《机智过人》节目上海发布会, 2017.04, 上海
 	- Participants: Xiaoyuan Yi, Jiannan Liang and Huimin Chen
-	- Details: 九歌受邀参加《机智过人》节目上海发布会，与两位青年诗人现场比拼作诗；
+	- Details: 九歌受邀参加《机智过人》节目上海发布会，与两位青年诗人现场比拼作诗
+
+## Jiuge Awards
+- Best Demo Award, CCL 19 (Jiuge System V2.0), 2019.
+- Best Demo Award, CCL 17 (Jiuge System V1.0), 2017.
+
 
 ## Jiuge Versions
 
